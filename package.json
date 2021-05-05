@@ -1,0 +1,14 @@
+{
+  "name": "copy-github-labels",
+  "version": "1.0.0",
+  "description": "Copy github labels from repo to another repo",
+  "main": "app.js",
+  "repository": "https:/github.com/moaalaa/copy-github-labels",
+  "author": "Mohamed Alaa El-Din <moaalaa16@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
+}
